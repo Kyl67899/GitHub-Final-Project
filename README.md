@@ -1,2 +1,2 @@
-# IBM-GitHub-UI-Final-Project-1
+# IBM-GitHub-UI-Final-Project
 IBM final project
